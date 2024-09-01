@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220297962016",
+    "project_id": "learnlog-ca849",
+    "storage_bucket": "learnlog-ca849.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220297962016:android:878b0ac81981b77301d245",
+        "android_client_info": {
+          "package_name": "com.akil.learnlog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaxJ1f_yB9nRzlfFQlBic8hgef2AH5t0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
